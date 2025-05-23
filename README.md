@@ -7,7 +7,6 @@ The head model used in this project is derived from https://www.thingiverse.com/
 
 The eye movement mechanism design is inspired by the work of https://www.youtube.com/watch?v=ihXxbQefl1c&t=778s
 
-if you have any questions please contact: Tsehao.huang@outlook.com
 
 # Demo Video
 1. eye movement :
@@ -38,7 +37,7 @@ This repository includes the following components:
       Servo motor control interface for precise eye movement simulation
 
 # Assembly Instructions
-Coming Soon. A full tutorial video will be publishsed on our social media platforms. For immediate assistance, please contact Huang, Zehao (Tsehao.huang@outlook.com)
+Coming Soon. A full tutorial video will be publishsed on our social media platforms. If you have any questions, please contact Huang, Zehao (Tsehao.huang@outlook.com)
 
 
 
