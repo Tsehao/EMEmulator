@@ -37,6 +37,9 @@ This repository includes the following components:
       Coordinate calcualtion for gaze position
       Servo motor control interface for precise eye movement simulation
 
+# Assembly Instructions
+Coming Soon. A full tutorial video will be publishsed on our social media platforms. For immediate assistance, please contact Huang, Zehao (Tsehao.huang@outlook.com)
+
 
 
 
