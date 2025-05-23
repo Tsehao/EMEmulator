@@ -7,13 +7,38 @@ The head model used in this project is derived from https://www.thingiverse.com/
 
 The eye movement mechanism design is inspired by the work of https://www.youtube.com/watch?v=ihXxbQefl1c&t=778s
 
-if you have any problem please connect with Tsehao.huang@outlook.com
+if you have any questions please contact: Tsehao.huang@outlook.com
 
 # Demo Video
 1. eye movement :
-[![video1]()](https://github.com/user-attachments/assets/7795f718-87b0-47b2-be22-8a0dcc709a5f)
-3. Tracking by Tobii G2:
-[![video2]()](https://github.com/user-attachments/assets/c6fbf2a7-5692-40cc-bced-28349e23fd41)
+
+
+https://github.com/user-attachments/assets/1db18268-8950-4e94-82a0-a7d7bd538a73
+
+
+2. Tracking by Tobii G2:
+
+
+https://github.com/user-attachments/assets/09b8be72-da56-41d0-82cc-6a8103d74bc8
+
+# Project Contents
+This repository includes the following components:
+1. 3D printing Files
+   Pre-sliced models (Bambu Studio compatible) for:
+      Head model
+      Eyeball base
+      Screen base
+      Servo motor mounts and linkages
+3. Parts List
+   Complete BOM (Bill of Materials) with all required components for assembling the eye movement emulator.
+5. Control software
+   Python script featuring:
+      Real-time marker tracking uding OpenCV
+      Coordinate calcualtion for gaze position
+      Servo motor control interface for precise eye movement simulation
+
+
+
 
    
 
