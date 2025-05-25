@@ -28,6 +28,9 @@ This repository includes the following components:
       Eyeball base
       Screen base
       Servo motor mounts and linkages
+   —— the installation completion diagram of eye movement structure: <img width="681" alt="iShot_2025-05-25_11 10 48" src="https://github.com/user-attachments/assets/cb4b1389-2007-42a2-9193-6dd6ac751ef2" />
+
+   
 3. Parts List
    Complete BOM (Bill of Materials) with all required components for assembling the eye movement emulator.
 5. Control software
