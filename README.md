@@ -1,7 +1,7 @@
 # EMEmulator
-This project provides a complete set of models and driver scripts, enabling researchers to quickly obtain an eye movement simulator through 3D printing for eye-tracking sensor or eye tracker measurements.
+This project provides a complete set of 3D-printable models and driver scripts, enabling researchers to quickly build an eye movement emulator through for eye-tracking sensor or eye tracker testing.
 
-In theory, all users can customize any component of this project according to their research objectives, such as the design of the head model, the type of servo motors, or the connection direction of eye movements.
+All components of the system are fully customizable to suit different research needs. You can modify the head model design, choose different types of servo motors, or adjust the  configuration of eye movement system depending on your goals.
 
 The head model used in this project is derived from https://www.thingiverse.com/
 
